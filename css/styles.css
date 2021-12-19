@@ -1,0 +1,20 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe {
+    background-color: seagreen;
+    color: peru;
+    font-weight: bold;
+    text-align: center;
+    font-size: 70px;
+}
+
+.links {
+    background-color: orangered;
+}
+
+.even {
+    background-color: rgb(182, 162, 48);
+    text-align: center;
+}
