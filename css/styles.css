@@ -24,6 +24,11 @@
     color: skyblue;
 }
 
+.recipe-heads.mac {
+    text-align: center;
+    font-weight: bolder;
+}
+
 h4 {
     background-color: plum;
     color: purple;
