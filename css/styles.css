@@ -18,3 +18,28 @@
     background-color: rgb(182, 162, 48);
     text-align: center;
 }
+
+.recipe-heads {
+    background-color: sienna;
+    color: skyblue;
+}
+
+h4 {
+    background-color: plum;
+    color: purple;
+    text-align: center;
+    weight: bold;
+}
+
+p {
+    background-color: peachpuff;
+    color: rgb(47, 28, 219);
+    font-weight: 500;
+}
+
+.pics {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
